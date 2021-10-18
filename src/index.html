@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+		<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+		<meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+		<title>Login 💻</title>
+		<link rel="stylesheet" href="./css/index.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	</head>
+	<body>
+		<div class="login">
+			<div class="login-screen">
+				<div class="app-title">
+					<h1>Login 💻</h1>
+				</div>
+
+				<div class="login-form">
+					<div class="control-group">
+						<input type="text" class="login-field text-left  p-10" value="" placeholder="Correo" id="login-name">
+						<label class="login-field-icon fui-user" for="login-name"></label>
+					</div>
+
+					<div class="control-group">
+						<input type="password" class="login-field text-left p-10" value="" placeholder="Contraseña" id="login-pass">
+						<label class="login-field-icon fui-lock" for="login-pass"></label>
+					</div>
+
+					<a class="btn btn-primary btn-large btn-block" href="#" title="Ingresar al sistema">Ingresar </a>
+					<a class="login-link text-right" href="./pages/login/resetPassword.html" title="Crear nueva contraseña">¿Olvidó Contraseña?</a>
+				</div>
+			</div>
+		</div>
+		<script src="./js/app.js"></script>
+	</body>
+</html>

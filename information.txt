@@ -1,0 +1,23 @@
+
+
+-------------------
+
+https://stackoverflow.com/questions/40445068/electron-take-up-100-of-screen-not-full-screen
+
+
+-------------------
+
+https://www.it-swarm-es.com/es/javascript/como-usar-preload.js-correctamente-en-electron/812503179/
+
+
+-------------------Login template
+https://codepen.io/Tushkiz/pen/xqfsy/
+-------------------
+http://lifesweeter21.blogspot.com/2015/02/how-to-go-back-browsing-history-using.html
+https://steemit.com/utopian-io/@pckurdu/how-to-login-electron-application-with-child-windows
+-------------------
+https://www.twilio.com/blog/an-introduction-to-building-desktop-applications-with-electron
+-------------------
+https://www.codegrepper.com/code-examples/javascript/electron+js+change+page+same+window
+-------------------
+
